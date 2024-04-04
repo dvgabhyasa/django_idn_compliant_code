@@ -8,7 +8,7 @@ The provided instructions outline the process of setting up a Django web framewo
 ### Activate the virtual environment
 ### On Windows activate it by .\env\Scripts\activate
 ### On macOS/Linux activate it by command source env/bin/activate
-### Download the code from the git repository. Replace repository_url with the actual URL of the repository.
+### Download the code from the git repository. Replace "repository_url" with the <u>actual URL</u> of the repository.
 ### git clone repository_url
 ### cd repository_directory
 ### Install the required packages from the requirements.txt file using pip:
