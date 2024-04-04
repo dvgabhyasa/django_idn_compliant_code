@@ -1,4 +1,4 @@
-The provided instructions outline the process of setting up a Django web framework to enable Internationalized Domain Name (IDN) compliant websites.
+### The provided instructions outline the process of setting up a Django web framework to enable Internationalized Domain Name (IDN) compliant websites.
 
 ### Below is a step-by-step guide to set up a Django web framework for IDN compliant websites:
 ### First, ensure you have Python and pip installed on your system.
@@ -8,7 +8,7 @@ The provided instructions outline the process of setting up a Django web framewo
 ### Activate the virtual environment
 ### On Windows activate it by .\env\Scripts\activate
 ### On macOS/Linux activate it by command source env/bin/activate
-### Download the code from the git repository. Replace "repository_url" with the <u>actual URL</u> of the repository.
+### Download the code from the git repository. Replace "repository_url" with the actual URL of the repository.
 ### git clone repository_url
 ### cd repository_directory
 ### Install the required packages from the requirements.txt file using pip:
@@ -24,4 +24,5 @@ The provided instructions outline the process of setting up a Django web framewo
 ### access yor application with domain example.com or उदाहरण.भारत in browser URL .
 ### Now, your Django application should be running locally and accessible through the specified IDN domains. Make sure to replace example.com and उदाहरण.भारत with your actual domain names. Additionally, ensure that your Django application is configured to handle IDN  domains correctly.
 ### For more information on making your website IDN ready, refer to this link [click here](https://bhashanet.in/sop_document_page).
+### To convert your domain into Punycode, please utilize our website tool. You can access it here [click here](https://bhashanet.in/tools).
 ![Screenshot_4-4-2024_143534_xn----5td2fbm4cid4fzbcd3q xn--h2brj9c](https://github.com/bhashanet/django_idn_compliant_code/assets/165909590/f64d5622-4a48-447c-a0ea-29bc07ea8d83)
