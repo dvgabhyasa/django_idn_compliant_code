@@ -1,0 +1,291 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-03-08 11:58+0530\n"
+"PO-Revision-Date: 2024-03-08 12:11+0000\n"
+"Last-Translator:   <>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Translated-Using: django-rosetta 0.10.0\n"
+
+#: .\app\templates\about.html:7 .\app\templates\about.html:22
+#: .\app\templates\index.html:57
+msgid "About Us"
+msgstr "हमारे बारे में"
+
+#: .\app\templates\about.html:23 .\app\templates\index.html:58
+msgid "Welcome to Travela"
+msgstr "ट्रैवला में आपका स्वागत है"
+
+#: .\app\templates\about.html:24 .\app\templates\index.html:59
+msgid ""
+"Welcome to Travela your virtual gateway to a world of wanderlust! As you "
+"step into our online haven, prepare to be captivated by a mosaic of travel "
+"delights. Whether you're a seasoned globetrotter or a first-time adventurer,"
+" we've crafted a space just for you."
+msgstr ""
+"घुमक्कड़ी की दुनिया के लिए आपके आभासी प्रवेश द्वार ट्रैवेला में आपका स्वागत "
+"है! जैसे ही आप हमारे ऑनलाइन हेवन में कदम रखते हैं, यात्रा के आनंद की "
+"पच्चीकारी से मंत्रमुग्ध होने के लिए तैयार रहें। चाहे आप एक अनुभवी "
+"ग्लोबट्रोटर हों या पहली बार साहसी हों, हमने आपके लिए एक जगह तैयार की है।"
+
+#: .\app\templates\about.html:25 .\app\templates\index.html:60
+msgid ""
+"Embark on a seamless exploration through our curated travel guides, where "
+"every destination unfolds like a story waiting to be told. Delve into "
+"practical tips, hidden gems, and cultural insights that will elevate your "
+"travel experience. Our commitment is to inspire, inform, and ignite the "
+"spirit of adventure within you."
+msgstr ""
+"ग़ाम्मी की दुनिया के लिए आपके दर्शनीय प्रवेश द्वार ट्रैवेला में आपका स्वागत "
+"है! जैसे ही आप हमारे ऑनलाइन हेवन में कदम रखते हैं, यात्रा के आनंद की पचकारी "
+"से मंत्रमुग्ध होने के लिए तैयार रहें। यदि आप एक अनुभवी ग्लोबट्रोटर हों या "
+"पहली बार डेवेलियर हों, तो हम आपके लिए एक जगह तैयार करते हैं।"
+
+#: .\app\templates\about.html:28 .\app\templates\index.html:63
+msgid "First Class Flights"
+msgstr "प्रथम श्रेणी उड़ानें"
+
+#: .\app\templates\about.html:31 .\app\templates\index.html:66
+msgid "Handpicked Hotels"
+msgstr "चुने हुए होटल"
+
+#: .\app\templates\about.html:34 .\app\templates\index.html:69
+msgid "5 Star Accommodations"
+msgstr "5 सितारा आवास"
+
+#: .\app\templates\about.html:37 .\app\templates\index.html:72
+msgid "Latest Model Vehicles"
+msgstr "नवीनतम मॉडल वाहन"
+
+#: .\app\templates\about.html:40 .\app\templates\index.html:75
+msgid "150 Premium City Tours"
+msgstr "150 प्रीमियम सिटी टूर"
+
+#: .\app\templates\about.html:43 .\app\templates\index.html:78
+msgid "24/7 Service"
+msgstr "सेवा"
+
+#: .\app\templates\about.html:46 .\app\templates\index.html:81
+msgid "Read More"
+msgstr "और पढ़ें"
+
+#: .\app\templates\about.html:59 .\app\templates\about.html:65
+#: .\app\templates\services.html:93 .\app\templates\services.html:99
+msgid "Subscribe"
+msgstr "सदस्यता लें"
+
+#: .\app\templates\about.html:60 .\app\templates\services.html:94
+msgid "Our Newsletter"
+msgstr "हमारा न्यूज़लैटर"
+
+#: .\app\templates\about.html:61 .\app\templates\services.html:95
+msgid ""
+"Be the first to receive exclusive travel tips, destination guides, and "
+"special offers. Subscribe to our newsletter and embark on a journey of "
+"discovery with WorldWide Tours. Uncover the latest trends, travel "
+"inspiration, and exciting updates delivered right to your inbox. Don't miss "
+"out – subscribe now and let the adventures begin!"
+msgstr ""
+"विशिष्ट यात्रा युक्तियाँ, गंतव्य गाइड और विशेष ऑफ़र प्राप्त करने वाले पहले "
+"व्यक्ति बनें। हमारे न्यूज़लेटर की सदस्यता लें और वर्ल्डवाइड टूर्स के साथ खोज"
+" की यात्रा पर निकलें। सीधे आपके इनबॉक्स में दिए गए नवीनतम रुझानों, यात्रा "
+"प्रेरणा और रोमांचक अपडेट को उजागर करें। चूकें नहीं - अभी सदस्यता लें और "
+"रोमांच शुरू करें!"
+
+#: .\app\templates\footer.html:12
+msgid "Get In Touch"
+msgstr "संपर्क में रहो"
+
+#: .\app\templates\footer.html:13
+msgid "CDAC,Pune"
+msgstr "सीडीएसी, पुणे"
+
+#: .\app\templates\footer.html:28
+msgid "Company"
+msgstr "कंपनी"
+
+#: .\app\templates\footer.html:29 .\app\templates\header.html:47
+msgid "Home"
+msgstr "होम"
+
+#: .\app\templates\footer.html:30 .\app\templates\header.html:48
+msgid "About"
+msgstr "हमारे बारे में"
+
+#: .\app\templates\footer.html:31 .\app\templates\header.html:49
+msgid "Services"
+msgstr "सेवा"
+
+#: .\app\templates\footer.html:36
+msgid "Support"
+msgstr "सहायता"
+
+#: .\app\templates\footer.html:37
+msgid "Contact"
+msgstr "संपर्क"
+
+#: .\app\templates\footer.html:38
+msgid "Legal Notice"
+msgstr "कानूनी नोटिस"
+
+#: .\app\templates\footer.html:39
+msgid "Privacy Policy"
+msgstr "गोपनीयता नीति"
+
+#: .\app\templates\footer.html:40
+msgid "Terms and Conditions"
+msgstr "नियम और शर्तें"
+
+#: .\app\templates\footer.html:41
+msgid "Sitemap"
+msgstr "साइट मैप"
+
+#: .\app\templates\footer.html:42
+msgid "Cookie policy"
+msgstr "कूकी नीति"
+
+#: .\app\templates\footer.html:77
+msgid "Payments"
+msgstr "भुगतान"
+
+#: .\app\templates\footer.html:97
+msgid "Your Site Name"
+msgstr "आपकी साइट का नाम"
+
+#: .\app\templates\footer.html:97
+msgid ", All right reserved."
+msgstr ", सर्वाधिकार सुरक्षित।"
+
+#: .\app\templates\footer.html:103
+msgid "Designed By"
+msgstr "द्वारा डिज़ाइन किया गया"
+
+#: .\app\templates\footer.html:103
+msgid "HTML Codex"
+msgstr "एचटीएमएल कोडेक्स"
+
+#: .\app\templates\footer.html:103
+msgid "Distributed By"
+msgstr "एचटीएमएल कोडेक्स"
+
+#: .\app\templates\footer.html:103
+msgid "ThemeWagon"
+msgstr "द्वारा वितरित"
+
+#: .\app\templates\header.html:9
+msgid "Travela - Tourism Website Template"
+msgstr "ट्रैवला - पर्यटन वेबसाइट टेम्पलेट"
+
+#: .\app\templates\header.html:40
+msgid "Travela"
+msgstr "ट्रेवल्स"
+
+#: .\app\templates\header.html:51
+msgid "Select Languages"
+msgstr "भाषाएँ चुनें"
+
+#: .\app\templates\index.html:22
+msgid "Explore The World"
+msgstr "दुनिया को खोजो"
+
+#: .\app\templates\index.html:23
+msgid "Let's The World Together!"
+msgstr "आइए विश्व को एक साथ चलें!"
+
+#: .\app\templates\index.html:24
+msgid ""
+"Adventure awaits those who dare to explore. Journey into the unknown, and "
+"let the world be your story."
+msgstr ""
+"रोमांच उन लोगों का इंतजार करता है जो अन्वेषण करने का साहस करते हैं। अज्ञात "
+"की यात्रा करें, और दुनिया को अपनी कहानी बनने दें।"
+
+#: .\app\templates\index.html:27
+msgid "Discover Now"
+msgstr "अभी खोजें"
+
+#: .\app\templates\index.html:41
+msgid "Search"
+msgstr "खोज"
+
+#: .\app\templates\index.html:92 .\app\templates\services.html:17
+msgid "Searvices"
+msgstr "सेवाएं"
+
+#: .\app\templates\index.html:93 .\app\templates\services.html:8
+#: .\app\templates\services.html:18
+msgid "Our Services"
+msgstr "हमारी सेवाएँ"
+
+#: .\app\templates\index.html:101 .\app\templates\index.html:132
+#: .\app\templates\services.html:26 .\app\templates\services.html:57
+msgid "WorldWide Tours"
+msgstr "विश्वव्यापी भ्रमण"
+
+#: .\app\templates\index.html:102 .\app\templates\index.html:133
+#: .\app\templates\services.html:27 .\app\templates\services.html:58
+msgid ""
+"Embark on a global odyssey with WorldWide Tours, where each destination is a"
+" chapter in the book of your travels. Our mission is to make your journey "
+"seamless, enriching, and filled with unforgettable moments."
+msgstr ""
+"वर्ल्डवाइड टूर्स के साथ एक वैश्विक यात्रा पर निकलें, जहां प्रत्येक गंतव्य "
+"आपकी यात्रा की पुस्तक में एक अध्याय है। हमारा मिशन आपकी यात्रा को निर्बाध, "
+"समृद्ध और अविस्मरणीय क्षणों से भरा बनाना है।"
+
+#: .\app\templates\index.html:113 .\app\templates\index.html:144
+#: .\app\templates\services.html:38 .\app\templates\services.html:69
+msgid "Hotel Reservation"
+msgstr "होटल आरक्षण"
+
+#: .\app\templates\index.html:114 .\app\templates\index.html:145
+#: .\app\templates\services.html:39 .\app\templates\services.html:70
+msgid ""
+"Welcome to WorldWide Stays, where we redefine hospitality with a commitment "
+"to providing seamless hotel reservations and a world of comfortable stays. "
+"Your perfect accommodation is just a click away, and we're here to ensure "
+"your every travel experience is restful and enjoyable."
+msgstr ""
+"वर्ल्डवाइड स्टेज़ में आपका स्वागत है, जहां हम सहज होटल आरक्षण और आरामदायक "
+"प्रवास की दुनिया प्रदान करने की प्रतिबद्धता के साथ आतिथ्य को फिर से परिभाषित"
+" करते हैं। आपका संपूर्ण आवास बस एक क्लिक की दूरी पर है, और हम यह सुनिश्चित "
+"करने के लिए यहां हैं कि आपकी हर यात्रा का अनुभव आरामदायक और आनंददायक हो।"
+
+#: .\app\templates\index.html:154 .\app\templates\services.html:79
+msgid "Service More"
+msgstr "सेवा"
+
+#: .\sampleproject\settings.py:104
+msgid "English"
+msgstr ""
+
+#: .\sampleproject\settings.py:105
+msgid "Hindi"
+msgstr ""
+
+#: .\sampleproject\settings.py:106
+msgid "Marathi"
+msgstr ""
+
+#: .\sampleproject\urls.py:28
+msgid "home"
+msgstr "होम"
+
+#: .\sampleproject\urls.py:29
+msgid "aboutus"
+msgstr "हमारेबारेमें"
+
+#: .\sampleproject\urls.py:30
+msgid "services"
+msgstr "सेवा"

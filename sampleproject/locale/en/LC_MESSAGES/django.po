@@ -1,0 +1,268 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-03-08 11:58+0530\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: .\app\templates\about.html:7 .\app\templates\about.html:22
+#: .\app\templates\index.html:57
+msgid "About Us"
+msgstr ""
+
+#: .\app\templates\about.html:23 .\app\templates\index.html:58
+msgid "Welcome to Travela"
+msgstr ""
+
+#: .\app\templates\about.html:24 .\app\templates\index.html:59
+msgid ""
+"Welcome to Travela your virtual gateway to a world of wanderlust! As you "
+"step into our online haven, prepare to be captivated by a mosaic of travel "
+"delights. Whether you're a seasoned globetrotter or a first-time adventurer, "
+"we've crafted a space just for you."
+msgstr ""
+
+#: .\app\templates\about.html:25 .\app\templates\index.html:60
+msgid ""
+"Embark on a seamless exploration through our curated travel guides, where "
+"every destination unfolds like a story waiting to be told. Delve into "
+"practical tips, hidden gems, and cultural insights that will elevate your "
+"travel experience. Our commitment is to inspire, inform, and ignite the "
+"spirit of adventure within you."
+msgstr ""
+
+#: .\app\templates\about.html:28 .\app\templates\index.html:63
+msgid "First Class Flights"
+msgstr ""
+
+#: .\app\templates\about.html:31 .\app\templates\index.html:66
+msgid "Handpicked Hotels"
+msgstr ""
+
+#: .\app\templates\about.html:34 .\app\templates\index.html:69
+msgid "5 Star Accommodations"
+msgstr ""
+
+#: .\app\templates\about.html:37 .\app\templates\index.html:72
+msgid "Latest Model Vehicles"
+msgstr ""
+
+#: .\app\templates\about.html:40 .\app\templates\index.html:75
+msgid "150 Premium City Tours"
+msgstr ""
+
+#: .\app\templates\about.html:43 .\app\templates\index.html:78
+msgid "24/7 Service"
+msgstr ""
+
+#: .\app\templates\about.html:46 .\app\templates\index.html:81
+msgid "Read More"
+msgstr ""
+
+#: .\app\templates\about.html:59 .\app\templates\about.html:65
+#: .\app\templates\services.html:93 .\app\templates\services.html:99
+msgid "Subscribe"
+msgstr ""
+
+#: .\app\templates\about.html:60 .\app\templates\services.html:94
+msgid "Our Newsletter"
+msgstr ""
+
+#: .\app\templates\about.html:61 .\app\templates\services.html:95
+msgid ""
+"Be the first to receive exclusive travel tips, destination guides, and "
+"special offers. Subscribe to our newsletter and embark on a journey of "
+"discovery with WorldWide Tours. Uncover the latest trends, travel "
+"inspiration, and exciting updates delivered right to your inbox. Don't miss "
+"out – subscribe now and let the adventures begin!"
+msgstr ""
+
+#: .\app\templates\footer.html:12
+msgid "Get In Touch"
+msgstr ""
+
+#: .\app\templates\footer.html:13
+msgid "CDAC,Pune"
+msgstr ""
+
+#: .\app\templates\footer.html:28
+msgid "Company"
+msgstr ""
+
+#: .\app\templates\footer.html:29 .\app\templates\header.html:47
+msgid "Home"
+msgstr ""
+
+#: .\app\templates\footer.html:30 .\app\templates\header.html:48
+msgid "About"
+msgstr ""
+
+#: .\app\templates\footer.html:31 .\app\templates\header.html:49
+msgid "Services"
+msgstr ""
+
+#: .\app\templates\footer.html:36
+msgid "Support"
+msgstr ""
+
+#: .\app\templates\footer.html:37
+msgid "Contact"
+msgstr ""
+
+#: .\app\templates\footer.html:38
+msgid "Legal Notice"
+msgstr ""
+
+#: .\app\templates\footer.html:39
+msgid "Privacy Policy"
+msgstr ""
+
+#: .\app\templates\footer.html:40
+msgid "Terms and Conditions"
+msgstr ""
+
+#: .\app\templates\footer.html:41
+msgid "Sitemap"
+msgstr ""
+
+#: .\app\templates\footer.html:42
+msgid "Cookie policy"
+msgstr ""
+
+#: .\app\templates\footer.html:77
+msgid "Payments"
+msgstr ""
+
+#: .\app\templates\footer.html:97
+msgid "Your Site Name"
+msgstr ""
+
+#: .\app\templates\footer.html:97
+msgid ", All right reserved."
+msgstr ""
+
+#: .\app\templates\footer.html:103
+msgid "Designed By"
+msgstr ""
+
+#: .\app\templates\footer.html:103
+msgid "HTML Codex"
+msgstr ""
+
+#: .\app\templates\footer.html:103
+msgid "Distributed By"
+msgstr ""
+
+#: .\app\templates\footer.html:103
+msgid "ThemeWagon"
+msgstr ""
+
+#: .\app\templates\header.html:9
+msgid "Travela - Tourism Website Template"
+msgstr ""
+
+#: .\app\templates\header.html:40
+msgid "Travela"
+msgstr ""
+
+#: .\app\templates\header.html:51
+msgid "Select Languages"
+msgstr ""
+
+#: .\app\templates\index.html:22
+msgid "Explore The World"
+msgstr ""
+
+#: .\app\templates\index.html:23
+msgid "Let's The World Together!"
+msgstr ""
+
+#: .\app\templates\index.html:24
+msgid ""
+"Adventure awaits those who dare to explore. Journey into the unknown, and "
+"let the world be your story."
+msgstr ""
+
+#: .\app\templates\index.html:27
+msgid "Discover Now"
+msgstr ""
+
+#: .\app\templates\index.html:41
+msgid "Search"
+msgstr ""
+
+#: .\app\templates\index.html:92 .\app\templates\services.html:17
+msgid "Searvices"
+msgstr ""
+
+#: .\app\templates\index.html:93 .\app\templates\services.html:8
+#: .\app\templates\services.html:18
+msgid "Our Services"
+msgstr ""
+
+#: .\app\templates\index.html:101 .\app\templates\index.html:132
+#: .\app\templates\services.html:26 .\app\templates\services.html:57
+msgid "WorldWide Tours"
+msgstr ""
+
+#: .\app\templates\index.html:102 .\app\templates\index.html:133
+#: .\app\templates\services.html:27 .\app\templates\services.html:58
+msgid ""
+"Embark on a global odyssey with WorldWide Tours, where each destination is a "
+"chapter in the book of your travels. Our mission is to make your journey "
+"seamless, enriching, and filled with unforgettable moments."
+msgstr ""
+
+#: .\app\templates\index.html:113 .\app\templates\index.html:144
+#: .\app\templates\services.html:38 .\app\templates\services.html:69
+msgid "Hotel Reservation"
+msgstr ""
+
+#: .\app\templates\index.html:114 .\app\templates\index.html:145
+#: .\app\templates\services.html:39 .\app\templates\services.html:70
+msgid ""
+"Welcome to WorldWide Stays, where we redefine hospitality with a commitment "
+"to providing seamless hotel reservations and a world of comfortable stays. "
+"Your perfect accommodation is just a click away, and we're here to ensure "
+"your every travel experience is restful and enjoyable."
+msgstr ""
+
+#: .\app\templates\index.html:154 .\app\templates\services.html:79
+msgid "Service More"
+msgstr ""
+
+#: .\sampleproject\settings.py:104
+msgid "English"
+msgstr "अंग्रेज़ी"
+
+#: .\sampleproject\settings.py:105
+msgid "Hindi"
+msgstr "हिंदी"
+
+#: .\sampleproject\settings.py:106
+msgid "Marathi"
+msgstr "मराठी"
+
+#: .\sampleproject\urls.py:28
+msgid "home"
+msgstr ""
+
+#: .\sampleproject\urls.py:29
+msgid "aboutus"
+msgstr ""
+
+#: .\sampleproject\urls.py:30
+msgid "services"
+msgstr ""

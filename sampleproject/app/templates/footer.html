@@ -1,0 +1,114 @@
+{% load static %}{% load i18n %} 
+{% load custom_tags %}
+
+
+<html>
+  <!-- Footer Start -->
+  <div class="container-fluid footer py-5">
+    <div class="container py-5">
+        <div class="row g-5">
+            <div class="col-md-6 col-lg-6 col-xl-3">
+                <div class="footer-item d-flex flex-column">
+                    <h4 class="mb-4 text-white">{% trans "Get In Touch" %}</h4>
+                    <a href=""><i class="fas fa-home me-2"></i> {% trans "CDAC,Pune" %}</a>
+                    <a href=""><i class="fas fa-envelope me-2"></i> xyz@example.com</a>
+                    <a href=""><i class="fas fa-phone me-2"></i> +000 000 00000</a>
+                    <a href="" class="mb-3"><i class="fas fa-print me-2"></i> +000 000 00000</a>
+                    <div class="d-flex align-items-center">
+                        <i class="fas fa-share fa-2x text-white me-2"></i>
+                        <a class="btn-square btn btn-primary rounded-circle mx-1" href=""><i class="fab fa-facebook-f"></i></a>
+                        <a class="btn-square btn btn-primary rounded-circle mx-1" href=""><i class="fab fa-twitter"></i></a>
+                        <a class="btn-square btn btn-primary rounded-circle mx-1" href=""><i class="fab fa-instagram"></i></a>
+                        <a class="btn-square btn btn-primary rounded-circle mx-1" href=""><i class="fab fa-linkedin-in"></i></a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-6 col-lg-6 col-xl-3">
+                <div class="footer-item d-flex flex-column">
+                    <h4 class="mb-4 text-white">{% trans "Company" %}</h4>
+                    <a href="{% url 'home' %}"><i class="fas fa-angle-right me-2"></i>{% trans "Home" %}</a>
+                    <a href="{% url 'aboutus' %}"><i class="fas fa-angle-right me-2"></i>{% trans "About" %}</a>
+                    <a href="{% url 'services' %}"><i class="fas fa-angle-right me-2"></i>{% trans "Services" %}</a>
+                </div>
+            </div>
+            <div class="col-md-6 col-lg-6 col-xl-3">
+                <div class="footer-item d-flex flex-column">
+                    <h4 class="mb-4 text-white">{% trans "Support" %}</h4>
+                    <a href=""><i class="fas fa-angle-right me-2"></i> {% trans "Contact" %}</a>
+                    <a href=""><i class="fas fa-angle-right me-2"></i> {% trans "Legal Notice" %}</a>
+                    <a href=""><i class="fas fa-angle-right me-2"></i> {% trans "Privacy Policy" %}</a>
+                    <a href=""><i class="fas fa-angle-right me-2"></i> {% trans "Terms and Conditions" %}</a>
+                    <a href=""><i class="fas fa-angle-right me-2"></i> {% trans "Sitemap" %}</a>
+                    <a href=""><i class="fas fa-angle-right me-2"></i> {% trans "Cookie policy" %}</a>
+                </div>
+            </div>
+            <div class="col-md-6 col-lg-6 col-xl-3">
+                <div class="footer-item">
+                    <div class="row gy-3 gx-2 mb-4">
+                        <div class="col-xl-6">
+                            {% comment %} <form>
+                                <div class="form-floating">
+                                    <select class="form-select bg-dark border" id="select1">
+                                        <option value="1">Arabic</option>
+                                        <option value="2">German</option>
+                                        <option value="3">Greek</option>
+                                        <option value="3">New York</option>
+                                    </select>
+                                    <label for="select1">English</label>
+                                </div>
+                            </form> {% endcomment %}
+                        </div>
+                        <div class="col-xl-6">
+                            {% comment %} <form>
+                                <div class="form-floating">
+                                    <select class="form-select bg-dark border" id="select1">
+                                        <option value="1">USD</option>
+                                        <option value="2">EUR</option>
+                                        <option value="3">INR</option>
+                                        <option value="3">GBP</option>
+                                    </select>
+                                    <label for="select1">$</label>
+                                </div>
+                            </form> {% endcomment %}
+                        </div>
+                    </div>
+                    <h4 class="text-white mb-3">{% trans "Payments" %}</h4>
+                    <div class="footer-bank-card">
+                        <a href="#" class="text-white me-2"><i class="fab fa-cc-amex fa-2x"></i></a>
+                        <a href="#" class="text-white me-2"><i class="fab fa-cc-visa fa-2x"></i></a>
+                        <a href="#" class="text-white me-2"><i class="fas fa-credit-card fa-2x"></i></a>
+                        <a href="#" class="text-white me-2"><i class="fab fa-cc-mastercard fa-2x"></i></a>
+                        <a href="#" class="text-white me-2"><i class="fab fa-cc-paypal fa-2x"></i></a>
+                        <a href="#" class="text-white"><i class="fab fa-cc-discover fa-2x"></i></a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- Footer End -->
+<!-- Copyright Start -->
+<div class="container-fluid copyright text-body py-4">
+    <div class="container">
+        <div class="row g-4 align-items-center">
+            <div class="col-md-6 text-center text-md-end mb-md-0">
+                <i class="fas fa-copyright me-2"></i><a class="text-white" href="#">{% trans 'Your Site Name' %}</a>{% trans ', All right reserved.' %}
+            </div>
+            <div class="col-md-6 text-center text-md-start">
+                <!--/*** This template is free as long as you keep the below author’s credit link/attribution link/backlink. ***/-->
+                <!--/*** If you'd like to use the template without the below author’s credit link/attribution link/backlink, ***/-->
+                <!--/*** you can purchase the Credit Removal License from "https://htmlcodex.com/credit-removal". ***/-->
+                {% trans 'Designed By' %} <a class="text-white" href="https://htmlcodex.com">{% trans 'HTML Codex' %}</a>{% trans 'Distributed By' %} <a href="https://themewagon.com">{% trans 'ThemeWagon' %}</a>
+            </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- Copyright End -->
+
+<!-- Back to Top -->
+<a href="#" class="btn btn-primary btn-primary-outline-0 btn-md-square back-to-top"><i class="fa fa-arrow-up"></i></a>   
+
+
+
+</html>
