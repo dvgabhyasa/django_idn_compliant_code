@@ -1,3 +1,4 @@
+## The provided instructions outline the process of setting up a Django web framework to enable Internationalized Domain Name (IDN) compliant websites.
 ### Below is a step-by-step guide to set up a Django web framework for IDN compliant websites:
 ### First, ensure you have Python and pip installed on your system.
 ### Create a virtual environment for running the Django code. Open a terminal or command prompt and run the following commands:
