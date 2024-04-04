@@ -19,5 +19,6 @@
 ### Add additional IDN domains as needed
 ### Save the hosts file.
 ### Run the Django code using the manage.py utility:
-### python manage.py runserver
+### python manage.py runserver 80
+### access yor application with domain example.com or उदाहरण.भारत in browser URL .
 ### Now, your Django application should be running locally and accessible through the specified IDN domains. Make sure to replace example.com and उदाहरण.भारत with your actual domain names. Additionally, ensure that your Django application is configured to handle IDN  domains correctly.
